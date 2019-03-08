@@ -8,5 +8,5 @@ https://outerspace.stsci.edu/display/PANSTARRS/PS1+DR2+caveats#PS1DR2caveats-FIT
 
 To run it:
 ```
-$ python wcs_corr.py ps1_cutout.fits
+$ python ps1_wcs_corr.py ps1_cutout.fits
 ```
