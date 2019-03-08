@@ -5,3 +5,8 @@ This is to help some packages/softwares (like ds9 v8.0) read the WCS info proper
 For more information, see:
 
 https://outerspace.stsci.edu/display/PANSTARRS/PS1+DR2+caveats#PS1DR2caveats-FITSimageformatquirks
+
+To run it:
+```
+$ python wcs_corr.py ps1_cutout.fits
+```
